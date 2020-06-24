@@ -61,8 +61,8 @@
 
         <q-img class="absolute-top" src="statics/mountains.jpg" style="height: 192px">
           <div class="absolute-bottom bg-transparent">
-            <q-avatar size="56px" class="q-mb-sm">
-              <img src="https://cdn.quasar.dev/img/boy-avatar.png">
+            <q-avatar size="80px" class="q-mb-sm">
+              <img src="statics/profile.jpg">
             </q-avatar>
             <div class="text-weight-bold">Rebecca Manzi</div>
             <div>@rebeccamanzi</div>
