@@ -71,5 +71,5 @@ See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
 
 ---
 <h4  align="center">
-Made by with 💙 by <a  href="[https://www.linkedin.com/in/rebeccamanzi/](https://www.linkedin.com/in/rebeccamanzi/)"  target="_blank">Rebecca Manzi</a>
+Made with 💙 by <a  href="[https://www.linkedin.com/in/rebeccamanzi/](https://www.linkedin.com/in/rebeccamanzi/)"  target="_blank">Rebecca Manzi</a>
 </h4>
